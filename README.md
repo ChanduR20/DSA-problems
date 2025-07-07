@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ChanduR20/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanduR20/DSA-problems/tree/master/0090-subsets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/ChanduR20/DSA-problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
