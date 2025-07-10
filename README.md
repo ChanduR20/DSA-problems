@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ChanduR20/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanduR20/DSA-problems/tree/master/0090-subsets-ii) |
+| [0496-next-greater-element-i](https://github.com/ChanduR20/DSA-problems/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ChanduR20/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ChanduR20/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/ChanduR20/DSA-problems/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ChanduR20/DSA-problems/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ChanduR20/DSA-problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ChanduR20/DSA-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
